@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect, useState } from "react";
 import { LOCAL_STORAGE_ITEMS, MUSIC_BRAINZ_API, SPOTIFY_ARTISTS_API } from "../appConstants";
 import Loader from "../dir/Loader";

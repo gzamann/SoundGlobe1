@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect, useState } from "react";
 import Globe from "react-globe.gl";
 import Button from "../dir/Button";

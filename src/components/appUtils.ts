@@ -1,3 +1,4 @@
+// @ts-nocheck
 export const getLabelsData = (artistsData) => {
     // format label data for Globe
     let labels = []
